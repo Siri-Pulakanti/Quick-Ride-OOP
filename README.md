@@ -128,8 +128,8 @@ Quick-Ride-Java-OOPs-Project
 
 ## Author Info
 
-- LinkedIn - [Dwaraka Poreddy](https://www.linkedin.com/in/dwaraka-poreddy-3bbb231b1/)
-- Github - [Dwaraka Poreddy](https://github.com/Dwaraka-Poreddy)
+- LinkedIn - [Siri Pulakanti](https://www.linkedin.com/in/siri-chandana-pulakanti/)
+- Github - [Siri Pulakanti](https://github.com/Siri-Pulakanti/)
 
 #### [Back To The Top](#Quick-Ride-Java-OOPs-Project)
 
